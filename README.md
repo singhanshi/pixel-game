@@ -1,5 +1,7 @@
 # Pixel Game
 
+https://singhanshi.github.io/pixel-game/
+
 A small 2D pixel-based game built using HTML5 Canvas and JavaScript.
 
 The game explores movement, simple interaction, and spatial design through a compact indoor map. Two characters start in separate rooms and gradually find their way to each other through the environment.
