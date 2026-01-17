@@ -47,7 +47,7 @@ const player2 = {
   skin: "#ffe0bd",
   hair: "#222",
   outfit: "#5c9cff",
-  name: "Madhav"
+  name: "Madhavv"
 };
 
 let heartPulse = 0;
