@@ -39,7 +39,7 @@ const player1 = {
   skin: "#ffe0bd",
   hair: "#6d4c41",
   outfit: "#ff5c8a",
-  name: "You"
+  name: "Anshii"
 };
 
 const player2 = {
@@ -47,7 +47,7 @@ const player2 = {
   skin: "#ffe0bd",
   hair: "#222",
   outfit: "#5c9cff",
-  name: "Him"
+  name: "Madhav"
 };
 
 let heartPulse = 0;
